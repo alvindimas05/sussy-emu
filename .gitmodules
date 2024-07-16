@@ -63,7 +63,7 @@
 	url = https://github.com/brofield/simpleini.git
 [submodule "oaknut"]
 	path = externals/oaknut
-	url = https://github.com/merryhime/oaknut
+	url = https://github.com/yuzu-mirror/oaknut
 [submodule "Vulkan-Utility-Libraries"]
 	path = externals/Vulkan-Utility-Libraries
 	url = https://github.com/KhronosGroup/Vulkan-Utility-Libraries.git
